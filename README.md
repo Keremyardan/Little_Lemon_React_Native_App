@@ -2,7 +2,7 @@ Here you may find a mobile restaurant application created with React Native(expo
 
 So, you may order your virtual food with this application.
 
-![image](https://github.com/user-attachments/assets/f54ae0dd-93d7-4e92-8044-9d11b7b41fd4 =300x) 
+<img src="(https://github.com/user-attachments/assets/f54ae0dd-93d7-4e92-8044-9d11b7b41fd4" width=50% height=50%>
 
 ![image](https://github.com/user-attachments/assets/af6d15e4-47d5-4b41-9efe-d2f46f820314)
 
